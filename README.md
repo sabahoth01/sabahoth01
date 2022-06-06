@@ -1,5 +1,5 @@
 ### <h1>Hi there 👋</h1>
-<hr>
+
 I'm <strong><i>Brunnotte Wasaulua Tazi</i></strong>. You can call me <strong>Brunaa</strong> ☺️
 
 <!--
