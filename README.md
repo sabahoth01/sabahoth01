@@ -1,5 +1,6 @@
-### Hi there 👋
-I'm Brunnotte Wasaulua Tazi. You can call me Brunaa ☺️
+### <h1>Hi there 👋</h1>
+<hr>
+I'm <strong><i>Brunnotte Wasaulua Tazi</i></strong>. You can call me <strong>Brunaa</strong> ☺️
 
 <!--
 **sabahoth01/sabahoth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
