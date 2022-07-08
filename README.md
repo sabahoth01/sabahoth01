@@ -1,10 +1,10 @@
 ##<h1>Hi there 👋</h1>
 I'm <strong><i>Brunnotte Wasaulua Tazi</i></strong>. You can call me <strong>Brunaa</strong> ☺️
 <p>I'm Itmo university student(in software engineering and computer technics).<br/>
-- 🔭 I’m currently working on learning and developing my coding skills...</p>
+🔭 I’m currently working on learning and developing my coding skills...</p>
 
-![](https://giphy.com/embed/L1R1tvI9svkIWwpVYr)
-![]([https://www.pluralsight.com/](https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47r7xzeapg3rp54f617dcx7m9yspzesbmzddfwvmxj&rid=giphy.gif&ct=g))
+![giphy](https://user-images.githubusercontent.com/82088279/177901847-89d24bcf-564f-45b6-a77f-09d92f624a1f.gif)
+
 ##<h1>Languages, technologies, frameworks and librairies</h1>
 - Java
 - HTML/CSS/JS
@@ -14,18 +14,18 @@ I'm <strong><i>Brunnotte Wasaulua Tazi</i></strong>. You can call me <strong>Bru
 - React
 - Vue
 
-##CMS
+## CMS
 - Tilda
 - Wordpress
 
-##<h1>Academic projects</h1>
+## <h1>Academic projects</h1>
 [My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
 ## <h1>Online courses</h1>
 Take a look:
 [all_courses](https://docs.google.com/document/d/1mfTHjF9DO8iUCJ9De_ZgRl9xXHZuKEUh03KM3ziEnFM/edit?usp=sharing)
 
-##<h1>✨My stats</h1>
+## <h1>✨My stats</h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabahoth01)](https://github.com/sabahoth01/github-readme-stats)
 
 <!--
