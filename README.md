@@ -4,17 +4,32 @@ I'm <strong><i>Brunnotte Wasaulua Tazi</i></strong>. You can call me <strong>Bru
 <p>I'm Itmo university student(in software engineering and computer technics).<br/>
 - 🔭 I’m currently working on learning and developing my coding skills...</p>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+[](https://giphy.com/embed/L1R1tvI9svkIWwpVYr)
 
-##  <h1>Languages and technologies</h1>
+## <h1>Languages, technologies, frameworks and librairies</h1>
+
+- Java
+- HTML/CSS/JS
+- Python
+- PHP
+- C
+- React
+- Vue
+
+## CMS
+- Tilda
+- Wordpress
 
 ## <h1>Academic projects</h1>
-[]()
+[My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
+
 ## <h1>Online courses</h1>
+Take a look:
+[all_courses](https://docs.google.com/document/d/1mfTHjF9DO8iUCJ9De_ZgRl9xXHZuKEUh03KM3ziEnFM/edit?usp=sharing)
 
-## <h1>My stats</h1>
+## ✨<h1>My stats</h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabahoth01)](https://github.com/sabahoth01/github-readme-stats)
 
-###<h1>How to reach me</h1>
 <!--
 **sabahoth01/sabahoth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
