@@ -9,6 +9,7 @@ I'm <strong><i>Brunnotte</i></strong>. You can call me <strong>Brunaa</strong> â
 - HTML/CSS/JS
 - Python
 - PHP
+- Bootstrap
 - C
 - Spring
 - React
