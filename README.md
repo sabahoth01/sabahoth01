@@ -17,6 +17,7 @@ I'm <strong><i>Brunnotte</i></strong>. You can call me <strong>Brunaa</strong> â
 
 ## CMS
 - Tilda
+- Wix
 - Wordpress
 
 ## <h1>Academic projects</h1>
