@@ -6,7 +6,7 @@ I'm <strong><i>Brunnotte</i></strong>. You can call me <strong>Brunaa</strong> �
 <p>I'm Itmo university student(in software engineering and computer technics).<br/>
 🔭 I’m currently working on learning and developing my coding skills...</p>
 
-## <h1 style = "color: red">Languages, technologies, frameworks and librairies</h1>
+## <h1>Languages, technologies, frameworks and librairies</h1>
 - Java
 - HTML/CSS/JS
 - Python
