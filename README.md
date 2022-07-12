@@ -1,6 +1,6 @@
 ## <h1>Hi there 👋</h1>
-<span align = "center">
-  <img src = "https://user-images.githubusercontent.com/82088279/177901847-89d24bcf-564f-45b6-a77f-09d92f624a1f.gif">
+<span >
+  <img src = "https://user-images.githubusercontent.com/82088279/177901847-89d24bcf-564f-45b6-a77f-09d92f624a1f.gif" align = "center">
 </span><br/>
 I'm <strong><i>Brunnotte</i></strong>. You can call me <strong>Brunaa</strong> ☺️
 <p>I'm Itmo university student(in software engineering and computer technics).<br/>
