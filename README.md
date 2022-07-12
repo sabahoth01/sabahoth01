@@ -1,5 +1,5 @@
 ## <h1>Hi there 👋</h1>
-![giphy](https://user-images.githubusercontent.com/82088279/177901847-89d24bcf-564f-45b6-a77f-09d92f624a1f.gif)<br/>
+<span style = "left = 45%">![giphy](https://user-images.githubusercontent.com/82088279/177901847-89d24bcf-564f-45b6-a77f-09d92f624a1f.gif)</span><br/>
 I'm <strong><i>Brunnotte</i></strong>. You can call me <strong>Brunaa</strong> ☺️
 <p>I'm Itmo university student(in software engineering and computer technics).<br/>
 🔭 I’m currently working on learning and developing my coding skills...</p>
@@ -29,7 +29,7 @@ Take a look:
 
 ## <h1>✨My stats</h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabahoth01)](https://github.com/sabahoth01/github-readme-stats)<br/>
-![Sabahoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabahoth01&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabahoth01&show_icons=true&theme=radical)
 
 <!--
 **sabahoth01/sabahoth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
