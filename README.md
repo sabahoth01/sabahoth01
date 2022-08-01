@@ -27,7 +27,7 @@
 [My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
 ## <h1>Online courses</h1>
-<h4>Take a look:</h4>
+<h4>Take a look:</h4><br/>
 [all_courses](https://docs.google.com/document/d/1mfTHjF9DO8iUCJ9De_ZgRl9xXHZuKEUh03KM3ziEnFM/edit?usp=sharing)
 
 ## <h1>✨My stats</h1>
