@@ -2,11 +2,12 @@
 <p>
   <img src = "https://user-images.githubusercontent.com/82088279/177901847-89d24bcf-564f-45b6-a77f-09d92f624a1f.gif" align = "center">
 </p><br/>
-### I'm <strong><i>Brunnotte</i></strong>. You can call me <strong>Brunaa</strong> ☺️
-<p>I'm Itmo university student(in software engineering and computer technics).<br/>
-🔭 I’m currently working on learning and developing my coding skills...</p>
+<h4>I'm <strong><i>Brunnotte</i></strong>. You can call me <strong>Brunaa</strong> ☺️</h4>
+<h5><p>I'm Itmo university student(in software engineering and computer technics).<br/>
+🔭 I’m currently working on learning and developing my coding skills...</p></h5>
 
 ## <h1>Languages, technologies, frameworks and librairies</h1>
+<h4>
 - Java
 - HTML/CSS/JS
 - Python
@@ -16,14 +17,17 @@
 - Spring
 - React
 - Vue
+</h4>
 
 ## CMS
+<h4>
 - Tilda
 - Wix
 - Wordpress
+</h4>
 
 ## <h1>Academic projects</h1>
-[My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
+<h4>[My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)</h4>
 
 ## <h1>Online courses</h1>
 Take a look:
