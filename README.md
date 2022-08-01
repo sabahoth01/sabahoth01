@@ -24,7 +24,7 @@
 
 
 ## <h1>Academic projects</h1>
-<h4>[My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)</h4>
+[My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
 ## <h1>Online courses</h1>
 <h4>Take a look:</h4>
