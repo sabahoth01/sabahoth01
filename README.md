@@ -20,7 +20,6 @@
 ## CMS
 - Tilda
 - Wix
-- Wordpress
 
 
 ## <h1>Academic projects</h1>
