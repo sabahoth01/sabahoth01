@@ -30,7 +30,7 @@ Take a look:<br/>
 [all_courses](https://docs.google.com/document/d/1mfTHjF9DO8iUCJ9De_ZgRl9xXHZuKEUh03KM3ziEnFM/edit?usp=sharing)
 
 ## <h1>✨My stats</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabahoth01)](https://github.com/sabahoth01/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabahoth01&layout=compact)](https://github.com/sabahoth01/github-readme-stats)<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabahoth01&show_icons=true&theme=radical)
 
 <!--
