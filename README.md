@@ -3,7 +3,7 @@
   <img src = "https://user-images.githubusercontent.com/82088279/177901847-89d24bcf-564f-45b6-a77f-09d92f624a1f.gif" align = "center">
 </p><br/>
 <h3>I'm <strong><i>Brunnotte</i></strong>. You can call me <strong>Brunaa</strong> ☺️</h3><br/>
-<p>I'm Itmo university student(in software engineering and computer technics).<br/>
+# I'm Itmo university student(in software engineering and computer technics).<br/>
 🔭 I’m currently working on learning and developing my coding skills...</p>
 
 ## <h1>Languages, technologies, frameworks and librairies</h1>
