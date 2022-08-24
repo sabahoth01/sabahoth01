@@ -23,7 +23,7 @@
 - MongoDB
 - PostgreSQL
 
-## <h1>CMS<h1>
+## CMS
 - Tilda
 - Wix
 
