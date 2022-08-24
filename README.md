@@ -27,7 +27,6 @@
 - Tilda
 - Wix
 
-
 ## <h1>Academic projects</h1>
 [My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
