@@ -2,9 +2,10 @@
 <p>
   <img src = "https://user-images.githubusercontent.com/82088279/177901847-89d24bcf-564f-45b6-a77f-09d92f624a1f.gif" align = "center">
 </p><br/>
-# I'm Brunnotte ☺️ <br/>
-# I'm Itmo university student ( software engineering and computer technics), <br/>
-# 🔭 I’m currently working on learning and developing my coding skills...
+
+ I'm Brunnotte ☺️ <br/>
+ I'm Itmo university student ( software engineering and computer technics), <br/>
+ 🔭 I’m currently working on learning and developing my coding skills...
 
 ## <h1>Languages, technologies, frameworks and librairies</h1>
 - Java
@@ -29,7 +30,7 @@
 [My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
 ## <h1>Projects from online courses</h1>
-[My projects ...](hhttps://github.com/sabahoth-Exercises)
+[My projects ...](https://github.com/sabahoth-Exercises)
 
 
 ## <h1>✨My stats</h1>
