@@ -2,9 +2,9 @@
 <p>
   <img src = "https://user-images.githubusercontent.com/82088279/177901847-89d24bcf-564f-45b6-a77f-09d92f624a1f.gif" align = "center">
 </p><br/>
-<h3>I'm <strong><i>Brunnotte</i></strong>. You can call me <strong>Brunaa</strong> ☺️</h3><br/>
- <h4>I'm Itmo university student ( software engineering and computer technics).</h4>
- <h4> 🔭 I’m currently working on learning and developing my coding skills...</h4>
+# I'm <strong><i>Brunnotte</i></strong>. You can call me <strong>Brunaa</strong> ☺️<br/>
+# I'm Itmo university student ( software engineering and computer technics).
+# 🔭 I’m currently working on learning and developing my coding skills...
 
 ## <h1>Languages, technologies, frameworks and librairies</h1>
 - Java
@@ -12,9 +12,6 @@
 - Python
 - PHP
 - Bootstrap
-- C
-- Spring
-- React
 - Vue
 - NodeJs
 - Express
@@ -31,9 +28,9 @@
 ## <h1>Academic projects</h1>
 [My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
-## <h1>Online courses</h1>
-Take a look:<br/>
-[all_courses](https://docs.google.com/document/d/1mfTHjF9DO8iUCJ9De_ZgRl9xXHZuKEUh03KM3ziEnFM/edit?usp=sharing)
+## <h1>Projects from online courses</h1>
+[My projects](hhttps://github.com/sabahoth-Exercises)
+
 
 ## <h1>✨My stats</h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabahoth01&layout=compact)](https://github.com/sabahoth01/github-readme-stats)<br/>
