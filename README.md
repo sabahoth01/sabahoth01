@@ -29,7 +29,7 @@
 [My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
 ## <h1>Projects from online courses</h1>
-[My projects](hhttps://github.com/sabahoth-Exercises)
+[My projects ...](hhttps://github.com/sabahoth-Exercises)
 
 
 ## <h1>✨My stats</h1>
