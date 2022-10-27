@@ -16,7 +16,6 @@
 - Vue
 - NodeJs
 - Express
-- Prolog
 
 ## <h1>Data base</h1>
 - MongoDB
