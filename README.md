@@ -4,8 +4,8 @@
 </p><br/>
 
  I'm Brunnotte ☺️ <br/>
- I'm Itmo university student ( software engineering and computer technics), <br/>
- 🔭 I’m currently working on learning and developing my coding skills...
+ I'm an Itmo university student ( software engineering and computer technics), <br/>
+ 🔭 I’m currently working on learning and developing my coding skills ...
 
 ## <h1>Languages, technologies, frameworks and librairies</h1>
 - Java
