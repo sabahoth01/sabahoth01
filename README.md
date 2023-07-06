@@ -24,7 +24,7 @@
 ## CMS
 - Tilda
 - Wix
-
+<!--
 ## <h1>Academic projects</h1>
 [My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
@@ -34,7 +34,7 @@
 
 ## <h1>✨My stats</h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabahoth01&layout=compact)](https://github.com/sabahoth01/github-readme-stats)<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabahoth01&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabahoth01&show_icons=true&theme=radical)-->
 
 <!--
 **sabahoth01/sabahoth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
