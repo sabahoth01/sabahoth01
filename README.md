@@ -42,7 +42,7 @@
 - Tilda
 - Wix
   
-## <h1>Academic projects</h1>
+<!-- ## <h1>Academic projects</h1>
 [My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
 ## <h1>Projects from online courses</h1>
@@ -54,7 +54,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabahoth01&show_icons=true&theme=radical)
 
 
-<!-- **sabahoth01/sabahoth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **sabahoth01/sabahoth01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
