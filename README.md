@@ -21,8 +21,8 @@
 <p align="left">Good to see repositories</p><p align="center"><img src = "https://github.com/user-attachments/assets/1b286129-aa45-4658-9167-ae69dbcd6277" width="100"></p>
 
 <p align="right">Online courses and MOOC</p>
-- CS50 (Harvard University)[https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4]
-- Algorithms and data structures I and II (Princeton University)[https://online.princeton.edu/algorithms-part-i]
+- CS50 [Harvard University](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
+- Algorithms and data structures I and II [Princeton University](https://online.princeton.edu/algorithms-part-i)
 
 ## <h1>Contacts</h1>
 
