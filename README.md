@@ -18,12 +18,12 @@
 - Express
 
 ## <h1>Highlights</h1>
-<p align="left">Good to see reopositories</p>
+<p align="left">Good to see repositories</p><p align="center"><img src = "https://github.com/user-attachments/assets/1b286129-aa45-4658-9167-ae69dbcd6277" width="100"></p>
+
 <p align="right">Online courses and MOOC</p>
 
 ## <h1>Contacts</h1>
 
-  
 <!-- ## <h1>Academic projects</h1>
 [My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
