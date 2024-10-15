@@ -17,16 +17,16 @@
 - NodeJs
 - Express
 
-## <h1>Highlights</h1>
+<!--## <h1>Highlights</h1>
 <p align="left">Good to see repositories</p><p align="center"><img src = "https://github.com/user-attachments/assets/1b286129-aa45-4658-9167-ae69dbcd6277" width="100"></p>
 
-<p align="right">Online courses and MOOC
-- CS50 [Harvard University](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)<br/>
-- Algorithms and data structures I and II [Princeton University](https://online.princeton.edu/algorithms-part-i)
+<p align="right">Online courses and MOOC<br/><br/>
+ - CS50, David J. Malan, Harvard University<br/>
+ - Algorithms and data structures I and II Princeton University
 </p>
 ## <h1>Contacts</h1>
 
-<!-- ## <h1>Academic projects</h1>
+ ## <h1>Academic projects</h1>
 [My academic tasks and projects](https://gitlab.se.ifmo.ru/briseisse)
 
 ## <h1>Projects from online courses</h1>
