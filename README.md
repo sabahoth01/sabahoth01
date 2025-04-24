@@ -4,7 +4,7 @@
 </p><br/>
 
  I'm Brunnotte ☺️ <br/>
- I'm an Itmo university student ( software engineering and computer technics), <br/>
+ I'm a Saint-Petersburg State University student ( Artificial intelligence and data science), <br/>
  🔭 I’m currently working on learning and developing my coding skills ...
 
 ## <h1>Tech stack</h1>
